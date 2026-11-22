@@ -19,10 +19,10 @@ A portfolio-grade, production-ready Machine Learning system for real-time classi
 
 ## 🔗 Live Application & Resources
 
-- **Live Web Application**: [https://spamemailclassifier-live.onrender.com](https://spamemailclassifier-live.onrender.com) *(or see deployed Render URL below)*
-- **Interactive Swagger Docs**: `/docs`
-- **ReDoc Documentation**: `/redoc`
-- **System Health Check**: `/health`
+- **Live Web Application**: [https://spam-email-classifier-42hy.onrender.com](https://spam-email-classifier-42hy.onrender.com)
+- **Interactive Swagger Docs**: [https://spam-email-classifier-42hy.onrender.com/docs](https://spam-email-classifier-42hy.onrender.com/docs)
+- **ReDoc Documentation**: [https://spam-email-classifier-42hy.onrender.com/redoc](https://spam-email-classifier-42hy.onrender.com/redoc)
+- **System Health Check**: [https://spam-email-classifier-42hy.onrender.com/health](https://spam-email-classifier-42hy.onrender.com/health)
 - **GitHub Repository**: [https://github.com/PavanT8/SpamEmailClassifier](https://github.com/PavanT8/SpamEmailClassifier)
 - **Author Profile**: [Pavan T](https://github.com/PavanT8)
 
