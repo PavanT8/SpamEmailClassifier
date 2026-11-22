@@ -19,3 +19,6 @@ data/*.tsv
 Thumbs.db
 .vscode/
 .idea/
+
+# Multi-CLI agent coordination
+.agent/
